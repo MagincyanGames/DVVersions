@@ -1,9 +1,0 @@
-03-0X-23-69-171022
-
-DV_0.3.0.23
-DV_0.3.23T
-
-contador interno de partidas ganadas
-cambios de dificultad en difícil y extremo
-el mensaje de entrada "esta versión es de prueba" solo se ejecuta la primera vez que se entra al juego
-
