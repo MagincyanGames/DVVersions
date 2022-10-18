@@ -1,0 +1,5 @@
+03a0Wb23d69
+
+contador interno de partidas ganadas
+cambios de dificultad en difícil y extremo
+el mensaje de entrada "esta versión es de prueba" solo se ejecuta la primera vez que se entra al juego
