@@ -1,0 +1,8 @@
+03-0Y-24-70-191022
+
+DV_0.3.0.24
+DV_0.3.24T
+
+se agrega la confirmación de salida, elección de tipo de venta de un impure_shard
+y mejora en las advertencias 
+
