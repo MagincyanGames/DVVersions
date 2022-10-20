@@ -3,6 +3,8 @@
 DV_0.3.0.24
 DV_0.3.24T
 
+https://github.com/MagincianCompany/DVVersions/raw/main/DV_0.3/0Y-24-70.zip
+
 se agrega la confirmación de salida, elección de tipo de venta de un impure_shard
 y mejora en las advertencias 
 
