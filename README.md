@@ -18,4 +18,4 @@ Segunda versión del juego, Implementa una mejor solución a lo previamente esta
 ## 0.3 (en trabajo)
 Actualización de todas las bases para una creación mas fácil. Añade nuevos modos y utilidades
 
-* [Mira el Log con todas sus versiones y sus descargas](https://github.com/MagincianCompany/DVVersions/blob/main/03.md)
+* [Revisa todas las versiones](https://github.com/MagincianCompany/DVVersions/blob/main/03.md)
