@@ -14,9 +14,9 @@ Segunda versión del juego, Implementa una mejor solución a lo previamente esta
 
 ## 0.1
 Primera versión del juego, con las bases de este.
-* [Desgarga 0.1.A](https://github.com/MagincianCompany/DVVersions/raw/main/All%20Versions/DV_0.1.A.zip)
-* [Desgarga 0.1.B](https://github.com/MagincianCompany/DVVersions/raw/main/All%20Versions/DV_0.1.B.zip) (obsoleta)
 * [Desgarga 0.1.C](https://github.com/MagincianCompany/DVVersions/raw/main/All%20Versions/DV_0.1.C.zip) (obsoleta)
+* [Desgarga 0.1.B](https://github.com/MagincianCompany/DVVersions/raw/main/All%20Versions/DV_0.1.B.zip) (obsoleta)
+* [Desgarga 0.1.A](https://github.com/MagincianCompany/DVVersions/raw/main/All%20Versions/DV_0.1.A.zip)
 
 
 
