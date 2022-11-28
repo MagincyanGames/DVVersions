@@ -6,7 +6,7 @@ En este repositorio se guardan todas las versiones de *Dando Vueltas*.
 ## 0.3 (en trabajo)
 Actualización de todas las bases para una creación mas fácil. Añade nuevos modos y utilidades
 
-última versión: 0.3.26T (25/11/22) [03-0AA-29-76]
+última versión: 0.3.26T (28/11/22) [03-0AA-30-77]
 
 * [Revisa todas las versiones](https://github.com/MagincianCompany/DVVersions/blob/main/03.md)
 
