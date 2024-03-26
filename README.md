@@ -2,8 +2,16 @@
 # Dando Vueltas All-Versions
 
 En este repositorio se guardan todas las versiones de *Dando Vueltas*.
+## 0.5 (en trabajo)
+Recreación del juego con un código mas sencillo y mas estructurado.
+Pretende también ir más despacio que el resto de versiones para poder tomar consejos de los jugadores
 
-## 0.3 (en trabajo)
+## 0.4
+Recreación del juego para una mayor customización
+
+última versión: 0.4.20.7ax BIRTHDAY (20/4/2023)
+
+## 0.3 
 Actualización de todas las bases para una creación mas fácil. Añade nuevos modos y utilidades
 
 última versión: 0.3.1.0T (24/12/22) [03-1A-32-81]
