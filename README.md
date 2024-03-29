@@ -8,6 +8,7 @@ Recreación del juego con un código mas sencillo y mas estructurado.
 Pretende también ir más despacio que el resto de versiones para poder tomar consejos de los jugadores
 
 [Versión 5](https://github.com/MagincyanGames/DVVersions/releases/tag/DV5)
+
 última versión: 5.0.0-beta (29/03/2024)
 
 ## 0.4
