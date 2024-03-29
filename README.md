@@ -6,6 +6,9 @@ En este repositorio se guardan todas las versiones de *Dando Vueltas*.
 Recreación del juego con un código mas sencillo y mas estructurado.
 Pretende también ir más despacio que el resto de versiones para poder tomar consejos de los jugadores
 
+última versión: 5.0.0-beta (29/03/2024)
+
+
 ## 0.4
 Recreación del juego para una mayor customización
 
