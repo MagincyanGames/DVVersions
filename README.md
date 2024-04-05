@@ -9,7 +9,7 @@ Pretende también ir más despacio que el resto de versiones para poder tomar co
 
 [Versión 5](https://github.com/MagincyanGames/DVVersions/releases/tag/DV5)
 
-última versión: 5.0.0-beta (29/03/2024)
+última versión: 5.1.1-beta (06/04/2024)
 
 ## 0.4
 Recreación del juego para una mayor customización
