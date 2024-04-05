@@ -7,7 +7,7 @@ En este repositorio se guardan todas las versiones de *Dando Vueltas*.
 Recreación del juego con un código mas sencillo y mas estructurado.
 Pretende también ir más despacio que el resto de versiones para poder tomar consejos de los jugadores
 
-[Versión 5](https://github.com/MagincyanGames/DVVersions/releases/tag/DV5)
+[Versión 5](https://github.com/MagincyanGames/DVVersions/releases/)
 
 última versión: 5.1.1-beta (06/04/2024)
 
